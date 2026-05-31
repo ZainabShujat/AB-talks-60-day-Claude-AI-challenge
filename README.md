@@ -57,12 +57,14 @@ Technical articles, development logs, and reflections on AI-assisted learning.
 
 ## Progress
 
-Phase| Status
-Day 0| ✅
-Days 1-15| ⏳
-Days 16-30| ⏳
-Days 31-45| ⏳
-Days 46-60| ⏳
+| Phase | Status |
+| --- | --- |
+| Day 0 | ✅ |
+| Day 1 | ✅ |
+| Days 1-15 | ⏳ |
+| Days 16-30 | ⏳ |
+| Days 31-45 | ⏳ |
+| Days 46-60 | ⏳ |
 
 ---
 
