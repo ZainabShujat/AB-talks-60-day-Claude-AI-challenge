@@ -67,6 +67,50 @@ Technical articles, development logs, and reflections on AI-assisted learning.
 | Days 46-60 | ⏳ |
 
 ---
+<img width="1054" height="1492" alt="ChatGPT Image Jun 1, 2026, 01_49_41 AM" src="https://github.com/user-attachments/assets/6f90242d-be78-457b-8681-a44ee07309c2" />
+
+---
+## Goals for the Next 60 Days
+
+### 1. Build Consistently
+- Complete all 60 days of the challenge
+- Ship projects instead of just planning them
+- Focus on execution over perfection
+
+### 2. Strengthen AI Engineering Skills
+- Learn practical AI workflows
+- Explore agents, automation, and AI tools
+- Improve prompt design and AI-assisted development
+
+### 3. Become a Better Developer
+- Deepen DSA and problem-solving skills
+- Write cleaner, more maintainable code
+- Build projects that solve real problems
+
+### 4. Learn in Public
+- Share progress regularly on LinkedIn
+- Document lessons learned from each challenge
+- Build a portfolio of projects and experiments
+
+### 5. Improve Technical Writing
+- Publish more articles
+- Explain complex topics simply
+- Combine writing with software projects
+
+### 6. Create a Strong Project Portfolio
+- Complete and document every challenge
+- Maintain high-quality GitHub repositories
+- End the challenge with a collection of finished work
+
+## Success Metric
+By Day 60, I want to be able to look back and see measurable growth in:
+- Building
+- Writing
+- AI skills
+- Consistency
+- Public learning
+ 
+---
 
 ---
 
