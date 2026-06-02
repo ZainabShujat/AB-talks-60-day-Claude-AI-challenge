@@ -68,6 +68,8 @@ Technical articles, development logs, and reflections on AI-assisted learning.
 
 ---
 
+---
+
 ## Follow the Journey
 
 I'll be documenting progress publicly throughout the challenge, including project updates, lessons learned, and experiments with AI-assisted development.
