@@ -1,4 +1,5 @@
 # Day 2 - Prompt Engineering
+**ABTalks 60-Day Claude AI Mastery Challenge**
 
 ## Overview
 
