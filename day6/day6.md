@@ -104,10 +104,10 @@ Day6/
 ├── day6.md                          ← This file
 ├── zainab-Resume-campus-placements.pdf   ← Original resume
 ├── Zainab_Shujat_ATS_Resume.pdf     ← ATS-optimized resume
-└── screenshots/
-    ├── original_resume.png
-    ├── optimized_resume.png
-    └── ats_score_comparison.png
+└── 
+├── original_resume.png
+├── optimized_resume.png
+└── ats_score_comparison.png
 ```
 
 ---
