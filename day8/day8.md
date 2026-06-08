@@ -6,6 +6,14 @@ A fully interactive Personal Environmental Health Analyzer dashboard for Ghaziab
 ## Screenshots
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ## Key Features
 - Real AQI data for Ghaziabad (152 AQI, PM2.5: 62 µg/m³) sourced from CPCB/IQAir
 - 5 standalone charts: AQI, PM2.5, PM10, City Ranking, Distribution
