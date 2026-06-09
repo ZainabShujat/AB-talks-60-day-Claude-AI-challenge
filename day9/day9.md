@@ -77,7 +77,8 @@ Tracked:
 
 ### Dashboard
 
-![alt text](image.png)
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/e3f65962-e4fc-47a6-a29a-6a3b4563da48" />
+
 
 ### Food Log
 
